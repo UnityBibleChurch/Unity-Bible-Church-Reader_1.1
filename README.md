@@ -1,5 +1,7 @@
 # Unity Bible Church Reader 1.1 (2026)
 
+[![Deploy static content to Pages](https://github.com/UnityBibleChurch/Unity-Bible-Church-Reader_1.1/actions/workflows/deploy.yml/badge.svg)](https://github.com/UnityBibleChurch/Unity-Bible-Church-Reader_1.1/actions/workflows/deploy.yml)
+
 A simple daily Bible reading web app for Unity Bible Church's **2026 Spiritual Growth Guide**, built for fast navigation, progress tracking, and an embedded Legacy Standard Bible reader.  
 It loads the reading plan from JSON files so the schedule can be updated without editing React code.
 
@@ -42,44 +44,55 @@ Each month file contains an array of entries like:
   "wisdom": { "book": "Psalm", "chapters": "1" },
   "nt": { "book": "Matthew", "chapters": "1" }
 }
+```
+
 Notes:
 
 chapters is stored as a string like "1", "1-2", or "1-3,5" (the app expands this to individual chapter buttons).
 
 Optional: isSunday: true to trigger the special Sunday display.
 
-Local Development
-bash
+## Local Development
+
+```bash
 npm install
 npm run dev
+```
+
 Build for production:
 
-bash
+```bash
 npm run build
 npm run preview
-Updating the Reading Plan
-Add/update JSON files in src/data/ (example: april.json).
+```
 
-Import that file in src/App.tsx and append it into the combined READING_PLAN array.
+## Updating the Reading Plan
 
-Commit + push.
+1. Add/update JSON files in `src/data/` (example: `april.json`).
+2. Import that file in `src/App.tsx` and append it into the combined `READING_PLAN` array.
+3. Commit + push.
 
-Deployment (GitHub Pages)
+## Deployment (GitHub Pages)
+
 Vite needs a correct base path when deploying under a repository subpath (typical for GitHub Pages).
-For this repo, the vite.config.ts is configured with:
+For this repo, the `vite.config.ts` is configured with:
 
-typescript
+```typescript
 base: '/Unity-Bible-Church-Reader_1.1/'
-The app uses GitHub Actions to automatically build and deploy on every push to main.
+```
+
+The app uses GitHub Actions to automatically build and deploy on every push to `main`.
 Once deployed, it will be live at:
 
 https://unitybiblechurch.github.io/Unity-Bible-Church-Reader_1.1/
 
-Bible Reader
-This app links to the Legacy Standard Bible web reader hosted at read.lsbible.org.
+## Bible Reader
+
+This app links to the Legacy Standard Bible web reader hosted at `read.lsbible.org`.
 Single-chapter links are used for maximum reliability across different browsers.
 
-Licensing / Attribution
+## Licensing / Attribution
+
 This repository’s source code may be licensed under MIT (see LICENSE).
-The Legacy Standard Bible text is not included in this repository; it is accessed via the external reader website. [web:7]
-If adding any LSB verse text directly into the app, review the LSB “Permission to Quote” terms first. [web:19]
+The Legacy Standard Bible text is not included in this repository; it is accessed via the external reader website.
+If adding any LSB verse text directly into the app, review the LSB “Permission to Quote” terms first.
