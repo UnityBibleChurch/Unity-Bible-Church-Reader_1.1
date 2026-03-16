@@ -5,6 +5,7 @@ import { Calendar, BookOpen, ChevronRight, ExternalLink, Moon, Sun, Info, CheckC
 import januaryData from './data/january.json';
 import februaryData from './data/february.json';
 import marchData from './data/march.json';
+import aprilData from './data/april.json';
 
 // --- CONFIGURATION ---
 const LSB_URL_BUILDER = (book: string, chapter: number) =>
@@ -13,8 +14,9 @@ const LSB_URL_BUILDER = (book: string, chapter: number) =>
 // Combine all month data into one array
 const READING_PLAN = [
   ...januaryData,
-...februaryData,
-...marchData,
+  ...februaryData,
+  ...marchData,
+  ...aprilData,
 // Add more months as you create them
 ];
 
