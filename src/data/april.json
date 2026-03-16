@@ -1,0 +1,576 @@
+[
+  {
+    "id": "2026-04-01",
+    "month": "April",
+    "day": 1,
+    "dateDisplay": "Wednesday, Apr 1",
+    "fullDate": "Wednesday, April 1",
+    "ot": {
+      "book": "Deuteronomy",
+      "chapters": "23-24"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "78"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "10"
+    }
+  },
+  {
+    "id": "2026-04-02",
+    "month": "April",
+    "day": 2,
+    "dateDisplay": "Thursday, Apr 2",
+    "fullDate": "Thursday, April 2",
+    "ot": {
+      "book": "Deuteronomy",
+      "chapters": "25-26"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "79"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "11"
+    }
+  },
+  {
+    "id": "2026-04-03",
+    "month": "April",
+    "day": 3,
+    "dateDisplay": "Friday, Apr 3 (Good Friday)",
+    "fullDate": "Friday, April 3 (Good Friday)",
+    "ot": {
+      "book": "Deuteronomy",
+      "chapters": "27-28"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "80"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "12"
+    }
+  },
+  {
+    "id": "2026-04-04",
+    "month": "April",
+    "day": 4,
+    "dateDisplay": "Saturday, Apr 4",
+    "fullDate": "Saturday, April 4",
+    "ot": {
+      "book": "Deuteronomy",
+      "chapters": "29-31"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "81"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "13"
+    }
+  },
+  {
+    "id": "2026-04-05",
+    "month": "April",
+    "day": 5,
+    "dateDisplay": "Sunday, Apr 5 (Easter)",
+    "fullDate": "Sunday, April 5 (Easter)",
+    "ot": {
+      "book": "The first of my WEEK",
+      "chapters": ""
+    },
+    "wisdom": {
+      "book": "PAY / DAY",
+      "chapters": ""
+    },
+    "nt": {
+      "book": "belong to Jesus",
+      "chapters": ""
+    },
+    "isSunday": true
+  },
+  {
+    "id": "2026-04-06",
+    "month": "April",
+    "day": 6,
+    "dateDisplay": "Monday, Apr 6",
+    "fullDate": "Monday, April 6",
+    "ot": {
+      "book": "Deuteronomy",
+      "chapters": "32-34"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "82"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "14"
+    }
+  },
+  {
+    "id": "2026-04-07",
+    "month": "April",
+    "day": 7,
+    "dateDisplay": "Tuesday, Apr 7",
+    "fullDate": "Tuesday, April 7",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "1-2"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "83"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "15"
+    }
+  },
+  {
+    "id": "2026-04-08",
+    "month": "April",
+    "day": 8,
+    "dateDisplay": "Wednesday, Apr 8",
+    "fullDate": "Wednesday, April 8",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "3-4"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "84"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "16"
+    }
+  },
+  {
+    "id": "2026-04-09",
+    "month": "April",
+    "day": 9,
+    "dateDisplay": "Thursday, Apr 9",
+    "fullDate": "Thursday, April 9",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "5-6"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "85"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "17"
+    }
+  },
+  {
+    "id": "2026-04-10",
+    "month": "April",
+    "day": 10,
+    "dateDisplay": "Friday, Apr 10",
+    "fullDate": "Friday, April 10",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "7-8"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "86"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "18"
+    }
+  },
+  {
+    "id": "2026-04-11",
+    "month": "April",
+    "day": 11,
+    "dateDisplay": "Saturday, Apr 11",
+    "fullDate": "Saturday, April 11",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "9-10"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "87"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "19"
+    }
+  },
+  {
+    "id": "2026-04-12",
+    "month": "April",
+    "day": 12,
+    "dateDisplay": "Sunday, Apr 12",
+    "fullDate": "Sunday, April 12",
+    "ot": {
+      "book": "The first of my WEEK",
+      "chapters": ""
+    },
+    "wisdom": {
+      "book": "PAY / DAY",
+      "chapters": ""
+    },
+    "nt": {
+      "book": "belong to Jesus",
+      "chapters": ""
+    },
+    "isSunday": true
+  },
+  {
+    "id": "2026-04-13",
+    "month": "April",
+    "day": 13,
+    "dateDisplay": "Monday, Apr 13",
+    "fullDate": "Monday, April 13",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "11-12"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "88"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "20"
+    }
+  },
+  {
+    "id": "2026-04-14",
+    "month": "April",
+    "day": 14,
+    "dateDisplay": "Tuesday, Apr 14",
+    "fullDate": "Tuesday, April 14",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "13-14"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "89"
+    },
+    "nt": {
+      "book": "John",
+      "chapters": "21"
+    }
+  },
+  {
+    "id": "2026-04-15",
+    "month": "April",
+    "day": 15,
+    "dateDisplay": "Wednesday, Apr 15",
+    "fullDate": "Wednesday, April 15",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "15-16"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "90"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "1"
+    }
+  },
+  {
+    "id": "2026-04-16",
+    "month": "April",
+    "day": 16,
+    "dateDisplay": "Thursday, Apr 16",
+    "fullDate": "Thursday, April 16",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "17-18"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "91"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "2"
+    }
+  },
+  {
+    "id": "2026-04-17",
+    "month": "April",
+    "day": 17,
+    "dateDisplay": "Friday, Apr 17",
+    "fullDate": "Friday, April 17",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "19-20"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "92"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "3"
+    }
+  },
+  {
+    "id": "2026-04-18",
+    "month": "April",
+    "day": 18,
+    "dateDisplay": "Saturday, Apr 18",
+    "fullDate": "Saturday, April 18",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "21-22"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "93"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "4"
+    }
+  },
+  {
+    "id": "2026-04-19",
+    "month": "April",
+    "day": 19,
+    "dateDisplay": "Sunday, Apr 19",
+    "fullDate": "Sunday, April 19",
+    "ot": {
+      "book": "The first of my WEEK",
+      "chapters": ""
+    },
+    "wisdom": {
+      "book": "PAY / DAY",
+      "chapters": ""
+    },
+    "nt": {
+      "book": "belong to Jesus",
+      "chapters": ""
+    },
+    "isSunday": true
+  },
+  {
+    "id": "2026-04-20",
+    "month": "April",
+    "day": 20,
+    "dateDisplay": "Monday, Apr 20",
+    "fullDate": "Monday, April 20",
+    "ot": {
+      "book": "Joshua",
+      "chapters": "23-24"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "94"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "5"
+    }
+  },
+  {
+    "id": "2026-04-21",
+    "month": "April",
+    "day": 21,
+    "dateDisplay": "Tuesday, Apr 21",
+    "fullDate": "Tuesday, April 21",
+    "ot": {
+      "book": "Judges",
+      "chapters": "1-2"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "95"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "6"
+    }
+  },
+  {
+    "id": "2026-04-22",
+    "month": "April",
+    "day": 22,
+    "dateDisplay": "Wednesday, Apr 22",
+    "fullDate": "Wednesday, April 22",
+    "ot": {
+      "book": "Judges",
+      "chapters": "3-4"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "96"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "7"
+    }
+  },
+  {
+    "id": "2026-04-23",
+    "month": "April",
+    "day": 23,
+    "dateDisplay": "Thursday, Apr 23",
+    "fullDate": "Thursday, April 23",
+    "ot": {
+      "book": "Judges",
+      "chapters": "5-6"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "97"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "8"
+    }
+  },
+  {
+    "id": "2026-04-24",
+    "month": "April",
+    "day": 24,
+    "dateDisplay": "Friday, Apr 24",
+    "fullDate": "Friday, April 24",
+    "ot": {
+      "book": "Judges",
+      "chapters": "7-8"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "98"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "9"
+    }
+  },
+  {
+    "id": "2026-04-25",
+    "month": "April",
+    "day": 25,
+    "dateDisplay": "Saturday, Apr 25",
+    "fullDate": "Saturday, April 25",
+    "ot": {
+      "book": "Judges",
+      "chapters": "9-10"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "99"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "10"
+    }
+  },
+  {
+    "id": "2026-04-26",
+    "month": "April",
+    "day": 26,
+    "dateDisplay": "Sunday, Apr 26",
+    "fullDate": "Sunday, April 26",
+    "ot": {
+      "book": "The first of my WEEK",
+      "chapters": ""
+    },
+    "wisdom": {
+      "book": "PAY / DAY",
+      "chapters": ""
+    },
+    "nt": {
+      "book": "belong to Jesus",
+      "chapters": ""
+    },
+    "isSunday": true
+  },
+  {
+    "id": "2026-04-27",
+    "month": "April",
+    "day": 27,
+    "dateDisplay": "Monday, Apr 27",
+    "fullDate": "Monday, April 27",
+    "ot": {
+      "book": "Judges",
+      "chapters": "11-13"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "100"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "11"
+    }
+  },
+  {
+    "id": "2026-04-28",
+    "month": "April",
+    "day": 28,
+    "dateDisplay": "Tuesday, Apr 28",
+    "fullDate": "Tuesday, April 28",
+    "ot": {
+      "book": "Judges",
+      "chapters": "14-15"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "101"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "12"
+    }
+  },
+  {
+    "id": "2026-04-29",
+    "month": "April",
+    "day": 29,
+    "dateDisplay": "Wednesday, Apr 29",
+    "fullDate": "Wednesday, April 29",
+    "ot": {
+      "book": "Judges",
+      "chapters": "16-17"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "102"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "13"
+    }
+  },
+  {
+    "id": "2026-04-30",
+    "month": "April",
+    "day": 30,
+    "dateDisplay": "Thursday, Apr 30",
+    "fullDate": "Thursday, April 30",
+    "ot": {
+      "book": "Judges",
+      "chapters": "18-19"
+    },
+    "wisdom": {
+      "book": "Psalm",
+      "chapters": "103"
+    },
+    "nt": {
+      "book": "Acts",
+      "chapters": "14"
+    }
+  }
+]
